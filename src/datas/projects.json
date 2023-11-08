@@ -1,0 +1,35 @@
+{
+    "web":[
+        {
+            "name":"Pocket Quran App",
+            "image":"https://envato-shoebox-0.imgix.net/c5e2/3b28-834e-4349-a418-15f90bad27b7/LEA+NGAJI+6.jpg?auto=compress%2Cformat&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&w=800&fit=max&markalign=center%2Cmiddle&markalpha=18&s=0c8acc188875bd7b61338abf38895425",
+            "desc":"The digital Quran with text and audio, so you can use it anywhere and anytime.",
+            "tools":["javascript","reactJs","bootstrap"],
+            "link":"https://pocket-quran-app.web.app/",
+            "github": "https://github.com/fangkiigopramana/pocket-quran-app"
+        },
+        {
+            "name":"Barcode App",
+            "image":"https://img.inews.co.id/media/822/files/inews_new/2018/10/12/pixabay.jpg",
+            "desc": "A barcode application program allows users to generate and scan barcodes on products.",
+            "tools":["javascript","reactJs","tailwind"],
+            "link":"https://kiar.vercel.app",
+            "github": "https://github.com/fangkiigopramana/kiar-generate-scanner-barcode"
+        },
+        {
+            "name":"News Portal Web",
+            "image":"https://seide.id/wp-content/uploads/2022/03/4.-CNN-dan-BBC.jpg",
+            "desc": "A website that provides access to various types of news, articles, and latest information from various sources",
+            "tools":["php","laravel","bootstrap"],
+            "link":"https://news-portal-web.000webhostapp.com/",
+            "github": ""
+        }
+
+    ],
+    "api":[
+
+    ],
+    "bot":[
+
+    ]
+}
